@@ -23,6 +23,8 @@
 /vendor/
 /Godeps/
 
+/.database
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/

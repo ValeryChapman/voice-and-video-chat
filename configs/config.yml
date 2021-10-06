@@ -4,5 +4,5 @@ db:
     username: "postgres"
     host:     "localhost"
     port:     "5432"
-    dbname:   "voice_chat_db"
+    dbname:   "chat_db"
     sslmode:  "disable"

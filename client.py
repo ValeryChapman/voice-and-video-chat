@@ -55,7 +55,7 @@ class Client:
             if data:
                 try:
                     frame = pickle.loads(data)
-                    cv2.imshow("Video 2", frame)
+                    cv2.imshow("Video", frame)
                     
                     key = cv2.waitKey(1) & 0xFF
                     if key == ord("q"):
