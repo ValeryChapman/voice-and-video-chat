@@ -1,4 +1,4 @@
-# Voice & Video chat
+# Voice and video chat using Golang
 
 ## What is it?
 This is an example of a simple voice and video chat using Golang server and Python client.
@@ -17,10 +17,6 @@ docker-compose up
 ```
 
 ## How to run a client?
-### Use `.EXE` file to start
-```
-Chat.exe
-```
 ### Start `client.py` file
 Install the libraries:
 ```
@@ -30,5 +26,5 @@ pip install opencv-python
 ```
 Start:
 ```
-python client.py
+python3 client.py
 ```
